@@ -1,0 +1,30 @@
+.editFormBlock{
+    margin: 50px;
+    text-align: center;
+    background-color: #fff;    
+    padding: 50px;
+}
+
+.newPostTitle input{
+    width: 90%;
+    height: 20px;
+}
+
+.newPostBody{
+    margin-top: 10px;
+}
+
+.newPostBody textarea{
+    width: 90%;
+    min-height: 100px;
+
+}
+
+.newPostButton{
+    margin-top: 20px;
+}
+
+.title{
+    font-size: 20px;
+    color: #222;
+}
